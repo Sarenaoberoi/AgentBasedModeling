@@ -81,5 +81,5 @@ The plot now shows lines added between each dwelling. This is done using lines()
 <img width="569" alt="Screen Shot 2020-08-23 at 9 32 06 PM" src="https://user-images.githubusercontent.com/60228365/90994856-29557200-e588-11ea-9b86-a0ca5d06c579.png">
 
 
-This plot shows 50 dwellings, 40 small trees, and 12 large trees. The person visited 7 different homes which can be seen by the spline. The xspline command gave us a curved more continuous line between the 7 homes visited. 
+This plot shows 50 dwellings (squares), 40 small trees (small neon green circles), and 12 large trees (big green circles). The person visited 7 different homes which can be seen by the spline. The xspline command gave us a curved more continuous line between the 7 homes visited. 
 
