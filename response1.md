@@ -75,6 +75,9 @@ The plot now shows lines added between each dwelling. This is done using lines()
 
 ## Challenge Question
 
+<img width="442" alt="Screen Shot 2020-08-24 at 11 51 36 AM" src="https://user-images.githubusercontent.com/60228365/91066917-462d8c00-e600-11ea-8b31-72cc07988b8a.png">
+
+
 <img width="569" alt="Screen Shot 2020-08-23 at 9 32 06 PM" src="https://user-images.githubusercontent.com/60228365/90994856-29557200-e588-11ea-9b86-a0ca5d06c579.png">
 
 
