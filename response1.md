@@ -4,7 +4,7 @@
 
 <img width="544" alt="Screen Shot 2020-08-22 at 6 01 54 PM" src="https://user-images.githubusercontent.com/60228365/90979027-173fe900-e520-11ea-93af-711d8c797f2c.png">
 
-plot(x, y) plots points on graph. 
+plot(x, y) plots points on graph.  
 
 
 #### 2)
