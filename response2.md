@@ -1,6 +1,15 @@
 ## Response 2
 
-#### Projecting, Plotting, and Labelling Administrative Subdivisions
+### Projecting, Plotting, and Labelling Administrative Subdivisions
+
+
+In this project, I was able to create 3 different maps of Liberia. The first map shows an outline of Liberia and its borders, the second map shows Libera with 15 subdivisions specified, and the third map shows Liberia with more subdivisions specified. The code produced some very cool images! When I ran the code the first time, it was very difficult to decipher some of the subdivisions and labels. I had to play around with the sizes and text in order to make it legible on the plot. However, after changing up the code, I was able to get a pretty clear plot! 
+
+Some things I learned:
+
+geom_sf_text(): Allows you to add labels to the plot -  aes = specifies variable that contains labels we need
+
+sf::read_sf() - Creates a new class object and puts it in box on right 
 
 <img width="474" alt="Screen Shot 2020-08-25 at 8 21 57 PM" src="https://user-images.githubusercontent.com/60228365/91241411-ce03bb00-e712-11ea-8f3a-0a8b8c84e73b.png">
 
