@@ -11,6 +11,8 @@ geom_sf_text(): Allows you to add labels to the plot -  aes = specifies variable
 
 sf::read_sf() - Creates a new class object and puts it in box on right 
 
+I tried to complete the same project on India, but there was too much data for my old laptop to handle. 
+
 <img width="474" alt="Screen Shot 2020-08-25 at 8 21 57 PM" src="https://user-images.githubusercontent.com/60228365/91241411-ce03bb00-e712-11ea-8f3a-0a8b8c84e73b.png">
 
 <img width="471" alt="Screen Shot 2020-08-25 at 8 23 33 PM" src="https://user-images.githubusercontent.com/60228365/91241413-cfcd7e80-e712-11ea-9ae5-1fe9ef873b03.png">
