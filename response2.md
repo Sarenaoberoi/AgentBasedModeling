@@ -27,3 +27,12 @@ I tried to complete the same project on India, but there was too much data for m
 
 
 <img width="638" alt="Screen Shot 2020-08-25 at 5 56 50 PM" src="https://user-images.githubusercontent.com/60228365/91241433-d825b980-e712-11ea-8536-e81819965693.png">
+
+I then completed the same project with Suriname:
+
+<img width="448" alt="Screen Shot 2020-08-26 at 9 10 07 PM" src="https://user-images.githubusercontent.com/60228365/91374821-17253f00-e7e7-11ea-9638-dcaebbe6067d.png">
+
+<img width="319" alt="Screen Shot 2020-08-26 at 9 53 03 PM" src="https://user-images.githubusercontent.com/60228365/91374823-18ef0280-e7e7-11ea-95ab-98a8f08836ea.png">
+
+<img width="366" alt="Screen Shot 2020-08-26 at 9 56 23 PM" src="https://user-images.githubusercontent.com/60228365/91374828-1ab8c600-e7e7-11ea-8f60-7b63222a1791.png">
+
