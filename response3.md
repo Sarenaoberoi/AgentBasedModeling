@@ -1,5 +1,8 @@
 I decided to focus on the LMIC of Suriname. Suriname is a country located in South America and currently has a population of slightly more than 500,000 individuals. As you can see from the graphs below, the majority of individuals in the country reside in the northern region. The rest of the individuals are spread out throughout the rest of Suriname.  
 
+<img width="366" alt="Screen Shot 2020-08-26 at 9 56 23 PM" src="https://user-images.githubusercontent.com/60228365/91520845-52497000-e8c4-11ea-8c6e-782cd766212e.png">
+
+
 
 
 <img width="450" alt="Screen Shot 2020-08-27 at 10 19 28 PM" src="https://user-images.githubusercontent.com/60228365/91520038-52487080-e8c2-11ea-94c8-92e0abadd3aa.png">
@@ -11,3 +14,5 @@ I decided to focus on the LMIC of Suriname. Suriname is a country located in Sou
 
 
 I also looked into the population distribution of Liberia which I have shown below. 
+
+<img width="460" alt="Screen Shot 2020-08-27 at 11 24 36 PM" src="https://user-images.githubusercontent.com/60228365/91520856-5aa1ab00-e8c4-11ea-8fff-52b82c599754.png">
