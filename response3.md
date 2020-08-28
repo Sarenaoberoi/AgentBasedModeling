@@ -21,3 +21,17 @@ Suriname population with pretty colors!
 I also looked into the population distribution of Liberia which I have shown below. 
 
 <img width="460" alt="Screen Shot 2020-08-27 at 11 24 36 PM" src="https://user-images.githubusercontent.com/60228365/91520856-5aa1ab00-e8c4-11ea-8fff-52b82c599754.png">
+
+
+I redid it with a new country "Manaco" which is located in China. Macao currently has a populaiton of slightly over half a million individuals. 
+
+<img width="336" alt="Screen Shot 2020-08-28 at 2 17 51 PM" src="https://user-images.githubusercontent.com/60228365/91608758-1fdf5780-e944-11ea-97e5-a390a16fc5e4.png">
+
+
+<img width="704" alt="Screen Shot 2020-08-28 at 2 23 53 PM" src="https://user-images.githubusercontent.com/60228365/91608764-21a91b00-e944-11ea-9625-a60dd7e11aeb.png">
+
+
+<img width="437" alt="Screen Shot 2020-08-28 at 3 10 33 PM" src="https://user-images.githubusercontent.com/60228365/91608766-2372de80-e944-11ea-8576-6985fc006df6.png">
+
+
+<img width="410" alt="Screen Shot 2020-08-28 at 3 04 01 PM" src="https://user-images.githubusercontent.com/60228365/91608771-253ca200-e944-11ea-9838-d3b02e4be8ca.png">
