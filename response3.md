@@ -13,6 +13,11 @@ I decided to focus on the LMIC of Suriname. Suriname is a country located in Sou
 <img width="458" alt="Screen Shot 2020-08-28 at 12 01 28 AM" src="https://user-images.githubusercontent.com/60228365/91520049-57a5bb00-e8c2-11ea-8704-791a0b054277.png">
 
 
+Suriname population with pretty colors! 
+
+<img width="459" alt="Screen Shot 2020-08-28 at 12 54 19 PM" src="https://user-images.githubusercontent.com/60228365/91593471-37134a80-e92e-11ea-8337-bb0dec275f9e.png">
+
+
 I also looked into the population distribution of Liberia which I have shown below. 
 
 <img width="460" alt="Screen Shot 2020-08-27 at 11 24 36 PM" src="https://user-images.githubusercontent.com/60228365/91520856-5aa1ab00-e8c4-11ea-8fff-52b82c599754.png">
