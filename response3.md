@@ -1,4 +1,4 @@
-I decided to focus on the LMIC of Suriname. Suriname is a country located in South America and currently has a population of slightly more than 500,000 individuals. As you can see from the graphs below, the majority of individuals in the country reside in the northern region. This is where Paramaribo is located (the capital of Suriname). The rest of the individuals are spread out throughout the rest of Suriname.  
+I decided to focus on the LMIC of Suriname. Suriname is a country located in South America and currently has a population of slightly more than 500,000 individuals. As you can see from the graphs below, the majority of individuals in the country reside in the northern region. This is where Paramaribo is located (the capital of Suriname). The rest of the individuals are spread out throughout the rest of Suriname. As you can see below, there are a number of administrative units located in the Northern potion of the region near the capital.   
 
 <img width="366" alt="Screen Shot 2020-08-26 at 9 56 23 PM" src="https://user-images.githubusercontent.com/60228365/91520845-52497000-e8c4-11ea-8c6e-782cd766212e.png">
 
