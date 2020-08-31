@@ -23,7 +23,7 @@ I also looked into the population distribution of Liberia which I have shown bel
 <img width="460" alt="Screen Shot 2020-08-27 at 11 24 36 PM" src="https://user-images.githubusercontent.com/60228365/91520856-5aa1ab00-e8c4-11ea-8fff-52b82c599754.png">
 
 
-I redid it with a new country "Manaco" which is located in China. Macao currently has a populaiton of slightly over half a million individuals. 
+I redid it with a new country "Macau" which is located in China. Macau currently has a populaiton of slightly over half a million individuals. 
 
 <img width="336" alt="Screen Shot 2020-08-28 at 2 17 51 PM" src="https://user-images.githubusercontent.com/60228365/91608758-1fdf5780-e944-11ea-97e5-a390a16fc5e4.png">
 
