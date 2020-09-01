@@ -5,7 +5,3 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 
 
 
-<img width="1173" alt="Screen Shot 2020-08-31 at 10 32 07 PM" src="https://user-images.githubusercontent.com/60228365/91788528-6f3eb580-ebda-11ea-91f0-638f74a2ba84.png">
-
-
-<img width="1164" alt="Screen Shot 2020-08-31 at 10 23 29 PM" src="https://user-images.githubusercontent.com/60228365/91788532-71a10f80-ebda-11ea-98d9-06d2f9a2c4bf.png">
