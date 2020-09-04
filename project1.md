@@ -10,3 +10,10 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 
 <img width="1068" alt="Screen Shot 2020-09-01 at 7 31 30 PM" src="https://user-images.githubusercontent.com/60228365/91915929-cd76a180-ec89-11ea-82e2-bd592e4ca758.png">
 
+
+##### Picking 1 Parish!
+
+### San António!
+
+
+
