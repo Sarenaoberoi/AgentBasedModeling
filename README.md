@@ -8,7 +8,7 @@
 
 3) [Response 3 - Populations](https://Sarenaoberoi.github.io/AgentBasedModeling/response3) (August 27)
 
-4) [Project 1 - Geometric Bar Plot with Spatial Population Description](https://Sarenaoberoi.github.io/AgentBasedModeling/project1) (August 31)
+4) [Project 1](https://Sarenaoberoi.github.io/AgentBasedModeling/project1) (August 31)
 
   
 
