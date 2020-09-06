@@ -13,12 +13,8 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 
 ##### Picking 1 Parish!
 
-### San António!
+### São Lázaro!
 
-<img width="637" alt="Screen Shot 2020-09-02 at 4 04 58 PM" src="https://user-images.githubusercontent.com/60228365/92245509-7859ac00-ee92-11ea-9a37-4001a2cfaa96.png">
 
-<img width="612" alt="Screen Shot 2020-09-02 at 5 26 29 PM" src="https://user-images.githubusercontent.com/60228365/92245512-7a236f80-ee92-11ea-8744-d9f803ec9580.png">
-
-<img width="314" alt="Screen Shot 2020-09-02 at 6 19 43 PM" src="https://user-images.githubusercontent.com/60228365/92245516-7bed3300-ee92-11ea-9d5f-aacbbb5d3e63.png">
 
 
