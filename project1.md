@@ -16,17 +16,3 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 ### São Lázaro!
 
 
-<img width="628" alt="Screen Shot 2020-09-06 at 7 58 40 PM" src="https://user-images.githubusercontent.com/60228365/92404990-acd39f00-f102-11ea-95de-f6129fe9f80f.png">
-
-
-<img width="590" alt="Screen Shot 2020-09-06 at 7 59 05 PM" src="https://user-images.githubusercontent.com/60228365/92404995-afce8f80-f102-11ea-8e4c-994d26feb8ed.png">
-
-##### Density plot: 
-
-<img width="603" alt="Screen Shot 2020-09-06 at 7 58 52 PM" src="https://user-images.githubusercontent.com/60228365/92405000-b3faad00-f102-11ea-90f1-9079e7e7c64a.png">
-
-##### Density plot with multiline object
-
-<img width="423" alt="Screen Shot 2020-09-07 at 9 53 08 AM" src="https://user-images.githubusercontent.com/60228365/92405037-c96fd700-f102-11ea-933a-d0ea4e3d8db1.png">
-
-
