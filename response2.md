@@ -36,3 +36,12 @@ I then completed the same project with Suriname:
 
 <img width="366" alt="Screen Shot 2020-08-26 at 9 56 23 PM" src="https://user-images.githubusercontent.com/60228365/91374828-1ab8c600-e7e7-11ea-8f60-7b63222a1791.png">
 
+
+### Paraguay
+
+<img width="426" alt="Screen Shot 2020-09-07 at 7 36 48 PM" src="https://user-images.githubusercontent.com/60228365/92426297-91df4a00-f157-11ea-98f2-ad6145e0ea21.png">
+
+
+<img width="717" alt="Screen Shot 2020-09-07 at 7 41 40 PM" src="https://user-images.githubusercontent.com/60228365/92426301-93107700-f157-11ea-86c4-6b132ada223a.png">
+
+
