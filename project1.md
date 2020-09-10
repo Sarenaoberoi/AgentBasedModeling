@@ -30,3 +30,12 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 
 <img width="498" alt="Screen Shot 2020-09-08 at 5 39 19 PM" src="https://user-images.githubusercontent.com/60228365/92764700-a3e10880-f362-11ea-9042-ae04c1dc26f4.png">
 
+
+## Accessiblity 3
+
+In this plot, I specified roadways and pharmacies in Altos, Paraguay
+
+
+<img width="941" alt="Screen Shot 2020-09-10 at 7 37 16 PM" src="https://user-images.githubusercontent.com/60228365/92825012-17a00700-f39d-11ea-904c-6e201ecaeae4.png">
+
+
