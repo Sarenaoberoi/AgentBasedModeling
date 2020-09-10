@@ -6,13 +6,18 @@ This first image is the geometric bar plot alongside a spatial description of Ma
 
 <img width="1159" alt="Screen Shot 2020-08-31 at 10 53 14 PM" src="https://user-images.githubusercontent.com/60228365/91789566-e37a5880-ebdc-11ea-94b4-aa56a32c4db6.png">
 
+# My Geometric Bar Plot with Paraguay! (My new country)
+
+<img width="1280" alt="Screen Shot 2020-09-10 at 12 36 16 PM" src="https://user-images.githubusercontent.com/60228365/92764337-56649b80-f362-11ea-88ce-3fdb1b7f1392.png">
+
+
 ##### Stretch Goal!
 
 <img width="1068" alt="Screen Shot 2020-09-01 at 7 31 30 PM" src="https://user-images.githubusercontent.com/60228365/91915929-cd76a180-ec89-11ea-82e2-bd592e4ca758.png">
 
 
-##### Picking 1 Parish!
+##### Paraguay - adm2 - Altos
 
-### São Lázaro!
+### Altos!
 
 
