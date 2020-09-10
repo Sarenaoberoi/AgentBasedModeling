@@ -44,4 +44,5 @@ This second image is the population of mac_adm2
 
 ##### Paraguay!
 
+<img width="488" alt="Screen Shot 2020-09-10 at 12 25 06 PM" src="https://user-images.githubusercontent.com/60228365/92762669-ceca5d00-f360-11ea-9c63-37a57bc9ddb8.png">
 
