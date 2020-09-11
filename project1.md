@@ -22,11 +22,22 @@
 
 ## Accessiblity 3
 
-In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in Altos, Paraguay. Following this, I specified the healthcare facilities in Altos, Paraguay. Altos did not have any healthcare facilities, besides Pharmacies. Since Altos did not have hospitals and clinics, I decided to try this exercise again, but on ___, Paraguay which had many more healthcare facilities. 
+In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in Altos, Paraguay. Following this, I specified the healthcare facilities in Altos, Paraguay. Altos did not have any healthcare facilities, besides Pharmacies. Since Altos did not have hospitals and clinics, I decided to try this exercise again, but on San Lorenzo, Paraguay which had many more healthcare facilities. 
+
+Roadways in Altos, Paraguay: 
+
+<img width="444" alt="Screen Shot 2020-09-11 at 11 03 04 AM" src="https://user-images.githubusercontent.com/60228365/92943903-55467380-f421-11ea-99b4-4ecdb311471a.png">
+
+Pharmacies in Altos, Paraguay:
+
+<img width="769" alt="Screen Shot 2020-09-11 at 11 06 59 AM" src="https://user-images.githubusercontent.com/60228365/92944063-84f57b80-f421-11ea-8dd3-1ac59bded558.png">
+
+Urbanized areas with Roadways and Pharmacies in Altos, Paraguay:
+
+<img width="804" alt="Screen Shot 2020-09-11 at 11 10 58 AM" src="https://user-images.githubusercontent.com/60228365/92944079-89ba2f80-f421-11ea-89c9-c44f2693bd3d.png">
 
 
-
-## Asuncian, Paraguay!
+## San Lorenzo, Paraguay!
 
 
 
