@@ -22,12 +22,11 @@
 
 ## Accessiblity 3
 
-In this plot, I specified roadways and pharmacies in Altos, Paraguay. Altos did not have any other healthcare facilities, besides Pharmacies. I decided to try this exercise again, but on Asuncian, Paraguay which had many more healthcare facilities. 
+In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in Altos, Paraguay. Following this, I specified the healthcare facilities in Altos, Paraguay. Altos did not have any healthcare facilities, besides Pharmacies. Since Altos did not have hospitals and clinics, I decided to try this exercise again, but on ___, Paraguay which had many more healthcare facilities. 
 
 
-<img width="941" alt="Screen Shot 2020-09-10 at 7 37 16 PM" src="https://user-images.githubusercontent.com/60228365/92825012-17a00700-f39d-11ea-904c-6e201ecaeae4.png">
 
 ## Asuncian, Paraguay!
 
-<img width="1042" alt="Screen Shot 2020-09-10 at 8 12 07 PM" src="https://user-images.githubusercontent.com/60228365/92829222-f68de500-f3a1-11ea-93be-faf8e8ba1f86.png">
+
 
