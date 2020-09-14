@@ -1,8 +1,10 @@
 
 
-# My Geometric Bar Plot with Paraguay! (My new country)
+# My Geometric Bar Plot with Paraguay!
 
 <img width="1280" alt="Screen Shot 2020-09-10 at 12 36 16 PM" src="https://user-images.githubusercontent.com/60228365/92764337-56649b80-f362-11ea-88ce-3fdb1b7f1392.png">
+
+Justification:
 
 
 ##### Paraguay - adm2 - Altos
