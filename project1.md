@@ -38,6 +38,7 @@ Pharmacies in Altos, Paraguay:
 
 ### Stretch Goal!
 
+<img width="280" alt="Screen Shot 2020-09-14 at 11 41 39 AM" src="https://user-images.githubusercontent.com/60228365/93117316-a8702e80-f68c-11ea-83ad-f056159909f9.png">
 
 
 
