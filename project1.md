@@ -7,7 +7,7 @@
 Justification:
 
 
-##### Paraguay - adm2 - Altos
+#### Paraguay - ADM2 - Altos
 
 ### Altos!
 
@@ -22,15 +22,15 @@ Justification:
 <img width="498" alt="Screen Shot 2020-09-08 at 5 39 19 PM" src="https://user-images.githubusercontent.com/60228365/92764700-a3e10880-f362-11ea-9042-ae04c1dc26f4.png">
 
 
-## Accessiblity 3
+## Accessiblity 2- Roads and Pharmacies!
 
 In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in Altos, Paraguay. Following this, I specified the healthcare facilities in Altos, Paraguay. Since Altos is a small district in Paraguay, it did not have many healthcare facilities (4 pharmacies).
 
-Roadways in Altos, Paraguay: 
+### Roadways in Altos, Paraguay: 
 
 <img width="444" alt="Screen Shot 2020-09-11 at 11 03 04 AM" src="https://user-images.githubusercontent.com/60228365/92943903-55467380-f421-11ea-99b4-4ecdb311471a.png">
 
-Pharmacies in Altos, Paraguay:
+### Pharmacies in Altos, Paraguay:
 
 <img width="769" alt="Screen Shot 2020-09-11 at 11 06 59 AM" src="https://user-images.githubusercontent.com/60228365/92944063-84f57b80-f421-11ea-8dd3-1ac59bded558.png">
 
