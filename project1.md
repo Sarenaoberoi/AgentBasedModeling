@@ -27,6 +27,23 @@ Justification:
 In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in Altos, Paraguay. Following this, I specified the healthcare facilities in Altos, Paraguay. Since Altos is a small district in Paraguay, it did not have many healthcare facilities (4 pharmacies).
 
 
+### Roadways in Altos, Paraguay:
+
+
+<img width="824" alt="Screen Shot 2020-09-14 at 1 33 39 PM" src="https://user-images.githubusercontent.com/60228365/93118907-f9812200-f68e-11ea-8bbf-110776393580.png">
+
+
+### Pharmacies in Altos, Paraguay:
+
+<img width="821" alt="Screen Shot 2020-09-14 at 1 32 33 PM" src="https://user-images.githubusercontent.com/60228365/93118916-fdad3f80-f68e-11ea-84a0-9c34f0c44e21.png">
+
+
+### Densities of Urban Areas with Roadways and Pharmacies!
+
+<img width="860" alt="Screen Shot 2020-09-14 at 1 31 14 PM" src="https://user-images.githubusercontent.com/60228365/93118928-00a83000-f68f-11ea-85ce-eb2a89b22891.png">
+
+
+
 
 ### Stretch Goal!
 
