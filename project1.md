@@ -28,13 +28,21 @@ In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in
 
 ### Roadways in Altos, Paraguay: 
 
-<img width="444" alt="Screen Shot 2020-09-11 at 11 03 04 AM" src="https://user-images.githubusercontent.com/60228365/92943903-55467380-f421-11ea-99b4-4ecdb311471a.png">
+<img width="824" alt="Screen Shot 2020-09-14 at 1 33 39 PM" src="https://user-images.githubusercontent.com/60228365/93118907-f9812200-f68e-11ea-8bbf-110776393580.png">
 
 ### Pharmacies in Altos, Paraguay:
 
-<img width="769" alt="Screen Shot 2020-09-11 at 11 06 59 AM" src="https://user-images.githubusercontent.com/60228365/92944063-84f57b80-f421-11ea-8dd3-1ac59bded558.png">
+
+<img width="821" alt="Screen Shot 2020-09-14 at 1 32 33 PM" src="https://user-images.githubusercontent.com/60228365/93118916-fdad3f80-f68e-11ea-84a0-9c34f0c44e21.png">
 
 ## Urbanized areas with Roadways and Pharmacies in Altos, Paraguay:
+
+
+<img width="860" alt="Screen Shot 2020-09-14 at 1 31 14 PM" src="https://user-images.githubusercontent.com/60228365/93118928-00a83000-f68f-11ea-85ce-eb2a89b22891.png">
+
+
+<img width="769" alt="Screen Shot 2020-09-11 at 11 06 59 AM" src="https://user-images.githubusercontent.com/60228365/92944063-84f57b80-f421-11ea-8dd3-1ac59bded558.png">
+
 
 <img width="804" alt="Screen Shot 2020-09-11 at 11 10 58 AM" src="https://user-images.githubusercontent.com/60228365/92944079-89ba2f80-f421-11ea-89c9-c44f2693bd3d.png">
 
