@@ -53,6 +53,9 @@ In the plot above, we see a the roads and pharmacies (represented by the same co
 
 <img width="280" alt="Screen Shot 2020-09-14 at 11 41 39 AM" src="https://user-images.githubusercontent.com/60228365/93117316-a8702e80-f68c-11ea-83ad-f056159909f9.png">
 
+<img width="473" alt="Screen Shot 2020-09-15 at 3 28 04 PM" src="https://user-images.githubusercontent.com/60228365/93255794-66b4b600-f768-11ea-9d76-4dab9b927726.png">
+
+
 This stretch goal was a very fun exercise. It was interesting to see my area in a 3-dimensional plot. Looking at the graph below, we also see that 
 
 
