@@ -140,5 +140,5 @@ I had a lot of fun working on the stretch goal for this project. It was interest
 
 <img width="513" alt="Screen Shot 2020-09-16 at 6 38 28 PM" src="https://user-images.githubusercontent.com/60228365/93399640-fc754180-f84b-11ea-81de-49368321814f.png">
 
-The plot pictured above was created using my population data in Altos, Paraguay. 
+The plot pictured above is a representation of Zipf's Law using population in Altos, Paraguay. 
 
