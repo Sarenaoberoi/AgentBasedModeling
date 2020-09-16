@@ -127,7 +127,10 @@ In the plot above, we see a the roads and pharmacies (represented by the same co
 
 <img width="473" alt="Screen Shot 2020-09-15 at 3 28 04 PM" src="https://user-images.githubusercontent.com/60228365/93255794-66b4b600-f768-11ea-9d76-4dab9b927726.png">
 
+<img width="476" alt="Screen Shot 2020-09-15 at 11 33 49 PM" src="https://user-images.githubusercontent.com/60228365/93289329-2119dc80-f7ac-11ea-81a4-816d8c3b2059.png">
 
-I had a lot of fun working on the stretch goal for this project. It was interesting to see the topography of my area in a 3-dimensional plot. 
+
+
+I had a lot of fun working on the stretch goal for this project. It was interesting to see the topography of my area in a 3-dimensional plot. The last plot above shows the 3-dimensional area along with pharmacies and roads (all the same colors as listed above). This is super cool to see from a 3-dimensional perspective.  
 
 
