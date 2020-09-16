@@ -136,7 +136,7 @@ In the plot above, we see a the roads and pharmacies (represented by the same co
 
 I had a lot of fun working on the stretch goal for this project. It was interesting to see the topography of my area in a 3-dimensional plot. The last plot above shows the 3-dimensional area along with pharmacies and roads (all the same colors as listed above). This is super cool to see from a 3-dimensional perspective.  
 
-## Stretch Goal: Zipf's Law
+## Stretch Goal: Zipf's Law - Altos Paraguay
 
 <img width="513" alt="Screen Shot 2020-09-16 at 6 38 28 PM" src="https://user-images.githubusercontent.com/60228365/93399640-fc754180-f84b-11ea-81de-49368321814f.png">
 
