@@ -100,14 +100,14 @@ In this plot, I specified roadways (unpaved, unhewn_cobblestone, and asphalt) in
 
 <img width="824" alt="Screen Shot 2020-09-14 at 1 33 39 PM" src="https://user-images.githubusercontent.com/60228365/93118907-f9812200-f68e-11ea-8bbf-110776393580.png">
 
-The skyblue colored lined represent unpaved roads, the black lines represent unhewn-cobblestone roads, and the chartreuse colored lines represent asphalt roads. 
+The skyblue colored lined represent unpaved roads, the black lines represent unhewn-cobblestone roads, and the chartreuse colored lines represent asphalt roads. We can see from the plot that there is a large number of unpaved roads, with very few unhewn-cobblestone roads. There also seems to be a grid like area on the plot which I assume is a parking lot. It was very interesting to see the transporation networks throughout Altos. There seem to be a lot of (unpaved) roads across the cities.  
 
 
 ### Pharmacies in Altos, Paraguay:
 
 <img width="821" alt="Screen Shot 2020-09-14 at 1 32 33 PM" src="https://user-images.githubusercontent.com/60228365/93118916-fdad3f80-f68e-11ea-84a0-9c34f0c44e21.png">
 
-The pharmacies are represented by the red dots scattered across the plot. 
+The pharmacies are represented by the red dots scattered across the plot. As the plot shows, there are 4 distinct pharmacies, but only two of them are actually located in Altos itself.  
 
 
 ## Densities of Urban Areas with Roadways and Pharmacies!
@@ -115,7 +115,7 @@ The pharmacies are represented by the red dots scattered across the plot.
 <img width="860" alt="Screen Shot 2020-09-14 at 1 31 14 PM" src="https://user-images.githubusercontent.com/60228365/93118928-00a83000-f68f-11ea-85ce-eb2a89b22891.png">
 
 
-In the plot above, we see a the roads and pharmacies (represented by the same colors mentioned before), along with population densities. The yellow color represents low population densities, while the orchid (purple) color represents high population densities. This plot is a very good representation of how individuals are able to get to health care facilities using road networks. Looking at the plot, we can also see that the pharmacies are more commonly located in areas with high population densities. 
+In the plot above, we see a the roads and pharmacies (represented by the same colors mentioned before), along with population densities. The yellow color represents low population densities, while the orchid (purple) color represents high population densities. This plot is a very good representation of how individuals are able to get to health care facilities using road networks. Looking at the plot, we can also see that the pharmacies are more commonly located in areas with higher population densities. 
 
 ## Stretch Goal
 
@@ -128,6 +128,6 @@ In the plot above, we see a the roads and pharmacies (represented by the same co
 <img width="473" alt="Screen Shot 2020-09-15 at 3 28 04 PM" src="https://user-images.githubusercontent.com/60228365/93255794-66b4b600-f768-11ea-9d76-4dab9b927726.png">
 
 
-I had a lot of fun working on the stretch goal for this project. It was interesting to see my area in a 3-dimensional plot. Looking at the graph below, we also see that 
+I had a lot of fun working on the stretch goal for this project. It was interesting to see the topography of my area in a 3-dimensional plot. 
 
 
