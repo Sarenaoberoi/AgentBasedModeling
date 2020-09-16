@@ -13,7 +13,7 @@ Justification:
 
 <img width="468" alt="Screen Shot 2020-09-07 at 8 44 37 PM" src="https://user-images.githubusercontent.com/60228365/92764645-99267380-f362-11ea-9287-fbb47def4f83.png"> <img width="342" alt="Screen Shot 2020-09-07 at 8 45 10 PM" src="https://user-images.githubusercontent.com/60228365/92764660-9b88cd80-f362-11ea-8f03-7236db25f556.png">
 
-<img width="591" alt="Screen Shot 2020-09-07 at 8 46 41 PM" src="https://user-images.githubusercontent.com/60228365/92764672-9deb2780-f362-11ea-8c73-0ce5042b854b.png"> <img width="497" alt="Screen Shot 2020-09-07 at 8 57 06 PM" src="https://user-images.githubusercontent.com/60228365/92764684-a17eae80-f362-11ea-995f-5813aea57bc7.png">
+<img width="591" alt="Screen Shot 2020-09-07 at 8 46 41 PM" src="https://user-images.githubusercontent.com/60228365/92764672-9deb2780-f362-11ea-8c73-0ce5042b854b.png"> <img width="497" alt="Screen Shot 2020-09-07 at 8 57 06 PM" src="https://user-images.githubusercontent.com/60228365/92764684-a17eae80-f362-11ea-995f-5813aea57bc7.png"> 
 
 <img width="498" alt="Screen Shot 2020-09-08 at 5 39 19 PM" src="https://user-images.githubusercontent.com/60228365/92764700-a3e10880-f362-11ea-9042-ae04c1dc26f4.png">
 
