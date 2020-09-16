@@ -120,7 +120,7 @@ The pharmacies are represented by the red dots scattered across the plot. As the
 
 In the plot above, we see a the roads and pharmacies (represented by the same colors mentioned before), along with population densities. The yellow color represents low population densities, while the orchid (purple) color represents high population densities. This plot is a very good representation of how individuals are able to get to health care facilities using road networks. Looking at the plot, we can also see that the pharmacies are more commonly located in areas with higher population densities. The second plot focuses in on just Altos, by masking the roads outside of Altos (it also looks cleaner). I decided to keep the pharmacies outside of Altos in the plot since it is interesting to see how popular pharmacies are in the eastern area of Paraguay. It is very intersting to see that there the unpaved lines make up two grid like structures in the areas where pharmacies are present. I think these grid like structures represent parking lots, and are the parking lots for the pharmacies.  
 
-## Stretch Goal
+## Stretch Goal - Topography 
 
 <img width="281" alt="Screen Shot 2020-09-14 at 1 48 33 PM" src="https://user-images.githubusercontent.com/60228365/93288072-17db4080-f7a9-11ea-8971-de6cab8e2e9e.png"> 
 <img width="976" alt="Screen Shot 2020-09-14 at 5 04 49 PM" src="https://user-images.githubusercontent.com/60228365/93288084-1b6ec780-f7a9-11ea-991d-25a81cfd86ef.png">
