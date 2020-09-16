@@ -1,11 +1,20 @@
+# Welcome to Sarena's Project 1 Deliverable!
 
+## My Geometric Bar Plot with Paraguay!
 
-# My Geometric Bar Plot with Paraguay!
+I began this project by investigating the population distribution of Paraguay. Paraguay is a country located in South America, bordered by Bolivia, Brazil, and Argentina. Paraguay's total population is slightly below 7 million people. I chose to plot the population distribution in the adm1 of Paraguay. Paraguay's adm1 is made up of 17 departments. A few of these departments include San Pedro, Misiones, and Central. As you can see from the plot below, the population is spread out relatively evenly among the 17 different departments. Asunción, the capital of Paraguay, has the highest population out of the country. This is evident by looking at the goemetric bar plot to the right of the map. Central has the higest population, making up approximatley 31.04% of the country's entire population. Following central, we have Alto Paranà and Itapúa with the next highest populations.    
 
 <img width="1280" alt="Screen Shot 2020-09-10 at 12 36 16 PM" src="https://user-images.githubusercontent.com/60228365/92764337-56649b80-f362-11ea-88ce-3fdb1b7f1392.png">
 
-Justification:
+I had picked a number of countries before settling down on Paraguay. Many of the other countries I had chosen were difficult to work with, either because they were too small, didn't have enough data, or didn't have enough subdivisions. I think that Paraguay is a very interesting country with many fascinating cultural traditions. A couple interesting facts about Paraguay:
 
+- Paraguay has higher literacy rates than the United States
+
+- Guarani is the most commonly spoken language
+
+- Iguazu Falls is a large area made up of over 275 waterfalls, making it the largest waterfall in the word
+
+The majority of the population resides in the eastern area of the country.
 
 #### Paraguay - ADM2 - Altos
 
