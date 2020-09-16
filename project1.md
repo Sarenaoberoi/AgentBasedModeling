@@ -143,5 +143,5 @@ I had a lot of fun working on the stretch goal for this project. It was interest
 <img width="533" alt="Screen Shot 2020-09-16 at 7 09 08 PM" src="https://user-images.githubusercontent.com/60228365/93401470-31839300-f850-11ea-9c74-3cfadd2533a1.png">
 
 
-The plot pictured above is a representation of Zipf's Law using population in Altos, Paraguay. 
+The plot pictured above is a representation of Zipf's Law using population in Altos, Paraguay. My Zipf's law graph looks very funky. I began by organizing the settlments in my dataframe by their population size. As seen from the plots above, there is a slight linear relaitonship present, but the line of best fit is extremley off. This is plausible, as the Altos, Paraguay is a very small location with a small population, making it difficult to differentiate the linear pattern seen from the points.  
 
