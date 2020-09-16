@@ -119,6 +119,10 @@ In the plot above, we see a the roads and pharmacies (represented by the same co
 
 ## Stretch Goal
 
+<img width="281" alt="Screen Shot 2020-09-14 at 1 48 33 PM" src="https://user-images.githubusercontent.com/60228365/93288072-17db4080-f7a9-11ea-8971-de6cab8e2e9e.png"> 
+<img width="976" alt="Screen Shot 2020-09-14 at 5 04 49 PM" src="https://user-images.githubusercontent.com/60228365/93288084-1b6ec780-f7a9-11ea-991d-25a81cfd86ef.png">
+
+
 <img width="280" alt="Screen Shot 2020-09-14 at 11 41 39 AM" src="https://user-images.githubusercontent.com/60228365/93117316-a8702e80-f68c-11ea-83ad-f056159909f9.png">
 
 <img width="473" alt="Screen Shot 2020-09-15 at 3 28 04 PM" src="https://user-images.githubusercontent.com/60228365/93255794-66b4b600-f768-11ea-9d76-4dab9b927726.png">
