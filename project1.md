@@ -33,27 +33,58 @@ The rpoint command works by plotting the points randomly. Each dot on the plot r
 In order to plot the density, I had to use bandwidth to find my sigma value. After running bandwidth, I got a sigma value of 0.00251. After plotting the density, I moved on to contour lines and polygons. The contour lines worked to surround the highly density areas in Altos. This was done by creating the objects:
 
 Dsg <- as(saolaz_density, "SpatialGridDataFrame")  # convert to spatial grid class
+
+
 Dim <- as.image.SpatialGridDataFrame(Dsg)  # convert again to an image
+
+
 Dcl <- contourLines(Dim, levels = 1000000)  # create contour object
+
+
 SLDF <- ContourLines2SLDF(Dcl, CRS("+proj=longlat +datum=WGS84 +no_defs"))
+
+
 SLDFs <- st_as_sf(SLDF, sf)
+
 
 For the levels argument, I made sure to take a look at my density plot that I created before to see what the average densities surrounding the area was. I finally was able to choose a levels of 1000000. After creating the contour lines, I converted the countour lines to polygons. This was done by using this snippet of code:
 
 inside_polys <- st_polygonize(SLDFs)
+
+
 outside_lines <- st_difference(SLDFs, inside_polys)
+
+
 outside_buffers <- st_buffer(outside_lines, 0.001)
+
+
 outside_intersects <- st_difference(saolaz, outside_buffers)
+
+
 oi_polys <- st_cast(outside_intersects, "POLYGON")
+
+
 in_polys <- st_collection_extract(inside_polys, "POLYGON")
+
+
 in_polys[ ,1] <- NULL
+
+
 oi_polys[ ,1:15] <- NULL
 
 
 all_polys <- st_union(in_polys, oi_polys)
+
+
 all_polys <- st_collection_extract(all_polys, "POLYGON")
+
+
 all_polys <- st_cast(all_polys, "POLYGON")
+
+
 all_polys_saolaz <- all_polys %>%
+
+
   unique()
   
 When creating the final plot, it was very important to filter out some of the extraneous values. For example, there were many values that had extremley high densities because the area itself was extremley small. For example, even if there were only 2 or 3 people within an area, if the area itself was small, the densities would show up very high. I was able to filter some of these areas out and focus on more realistic density values and areas.  
