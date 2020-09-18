@@ -10,8 +10,7 @@ Next, a CNN (convolutional neural network) was trained. A CNN is a commonly used
 
 ResNet:
 
-IMAGE
-
+<img width="516" alt="Screen Shot 2020-09-18 at 11 51 55 AM" src="https://user-images.githubusercontent.com/60228365/93618823-c9df5c00-f9a5-11ea-8307-f0ff166d1988.png">
 
 In this study, two image datasets known as "ImageNet" and "DeepSat" were used to pretrain the CNN model. Both these datasets were images obtained using the Landsat 7 satellite. These two data sets were first modified to get the desired shape and size, and were then trained on a ResNet architecture CNN. The ResNet architecture is a type of convolutional neural network made for very large data sets (includes many convolutions):
 
