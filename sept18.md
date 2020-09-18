@@ -16,7 +16,9 @@ ResNet:
 
 <img width="516" alt="Screen Shot 2020-09-18 at 11 51 55 AM" src="https://user-images.githubusercontent.com/60228365/93618823-c9df5c00-f9a5-11ea-8307-f0ff166d1988.png">
 
-In this study, two image datasets known as "ImageNet" and "DeepSat" were used to pretrain the CNN model. Both these datasets were images obtained using the Landsat 7 satellite. These two data sets were first modified to get the desired shape and size, and were then trained on a ResNet architecture CNN. The ResNet architecture is a type of convolutional neural network made for very large data sets (includes many convolutions):
+In this study, two image datasets known as "ImageNet" and "DeepSat" were used to pretrain the CNN model. Both these datasets were images obtained using the Landsat 7 satellite. These two data sets were first modified to get the desired shape and size, and were then trained on a ResNet architecture CNN. The ResNet architecture is a type of convolutional neural network made for very large data sets (includes many convolutions)
+
+The ResNet convolution neural network was successful for the most part. Studies in Africa have shown that the model is successful in predicting areas very similar (in the same country) to the training data, but has a difficult time distinguishing areas outside of the training country. With more data (satellite images, nighttime light data), it is possible to get a more accurate representation of human development.  
 
 ### Citation:
 
