@@ -1,6 +1,10 @@
 ## Using Nighttime Light and Satellite Images to Help Predict Human Development in India
 
+### Introduction
+
 Throughout past years, scientists have searched for an accurate, time-efficient, and cost-effective method of determining and tracking human development across the world. Research has shown that census data, although relatively accurate, is extremley difficult to obtain (especially in low and middle income countries). Not only are censuses very expensive to conduct, it can take extended periods of time to conduct an accurate census. Along with this, determining rates of urbanization is critical. In this paper, I will discuss a study that used nightime light data and satellite images along with a convolutional neural network to determine urbanization and human development rates in India. 
+
+### Study
 
 Nightime lights are satellite taken images that detect the presence of lights in certain areas. Nighttime lights can often be a adequate indicator of a country's development, poverty and/or GDP. In term of the study conducted in India, nighttime lights were not sufficient enough for an accurate representation of development, so day time satellite images were taken as well. 
 
