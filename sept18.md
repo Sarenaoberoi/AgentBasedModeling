@@ -5,3 +5,9 @@ Throughout past years, scientists have searched for an accurate, time-efficient,
 Nightime lights are satellite taken images that detect the presence of lights in certain areas. Nighttime lights can often be a adequate indicator of a country's development, poverty and/or GDP. In term of the study conducted in India, nighttime lights were not sufficient enough for an accurate representation of development, so day time satellite images were taken as well. 
 
 Before creating a convolutional neural network, towns around India were split up into 3 disticnt groups (levels): 1, 2, and 3. The first level was used to represent areas that were underdeveloped, or "Rudementary" (RUD). The second level was an area that was slightly more developed, or "Intermediate" (INT). Lastly, level number 3 was used to represent an advanced or more developed area (ADV). There were 7 different variables used to determine the development of an area: assets, bathroom facilities, Condition of Households, Fuel for Cooking, Main Source of Light, Main Source of Water, Literacy. Depending on how high on the scale these variables were, an area could be labeled with a level of 1, 2, or 3. 
+
+
+*CLUSTERING!!1 WHAT???*
+
+Next, a CNN (convolutional neural network) was trained. A CNN is a commonly used deep learning method that commonly works to differentiate images. The model will begin by having "training" images, along with their corresponding labels, inputted. Once inputted into the model, a CNN will be able to differentiate the images of different labels by looking at specific aspects of each image (and its corresponding label). By looking at the disticnt similarities and differences of images under the same label or different labels, the CNN will be able to develop an adequate understanding of each label, and the images corresonding with that label. 
+
