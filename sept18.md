@@ -14,6 +14,8 @@ ResNet:
 
 In this study, two image datasets known as "ImageNet" and "DeepSat" were used to pretrain the CNN model. Both these datasets were images obtained using the Landsat 7 satellite. These two data sets were first modified to get the desired shape and size, and were then trained on a ResNet architecture CNN. The ResNet architecture is a type of convolutional neural network made for very large data sets (includes many convolutions):
 
+### Citation:
+
 
  
 
