@@ -16,6 +16,10 @@ In this study, two image datasets known as "ImageNet" and "DeepSat" were used to
 
 ### Citation:
 
+Dagar, A. (2020, September 07). An Approach to Tracking Human Development through Satellite Imagery in India. Retrieved September 18, 2020, from https://towardsdatascience.com/an-approach-to-tracking-human-development-through-satellite-imagery-in-india-7e750b85dc90
 
+Abdishakur. (2019, November 26). Multi-label Land Cover Classification with Deep Learning. Retrieved September 18, 2020, from https://towardsdatascience.com/multi-label-land-cover-classification-with-deep-learning-d39ce2944a3d
+
+Jean, N., Burke, M., Xie, M., Davis, W., Lobell, D., &amp; Ermon, S. (2016, August 19). Combining satellite imagery and machine learning to predict poverty. Retrieved September 18, 2020, from https://science.sciencemag.org/content/353/6301/790
  
 
