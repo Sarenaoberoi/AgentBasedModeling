@@ -11,3 +11,5 @@ Before creating a convolutional neural network, towns around India were split up
 
 Next, a CNN (convolutional neural network) was trained. A CNN is a commonly used deep learning method that commonly works to differentiate images. The model will begin by having "training" images, along with their corresponding labels, inputted. Once inputted into the model, a CNN will be able to differentiate the images of different labels by looking at specific aspects of each image (and its corresponding label). By looking at the disticnt similarities and differences of images under the same label or different labels, the CNN will be able to develop an adequate understanding of each label, and the images corresonding with that label. 
 
+In this study, two image datasets known as "ImageNet" and "DeepSat" were used to pretrain the CNN model. Both these datasets were images obtained using the Landsat 7 satellite. These two data sets were first modified to get the desired shape and size, and were then trained on a ResNet architecture CNN. The ResNet architecture is a type of convolutional neural network made for very large data sets. 
+
