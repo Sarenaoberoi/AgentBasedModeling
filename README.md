@@ -12,5 +12,12 @@
 
 5) [Data Science Insights](https://Sarenaoberoi.github.io/AgentBasedModeling/sept18) (September 18)
 
+
+### Week 6-8
+
+1) [Project 2](https://Sarenaoberoi.github.io/AgentBasedModeling/oct1)
+
+
+
   
 
