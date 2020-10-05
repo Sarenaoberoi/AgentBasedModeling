@@ -7,3 +7,6 @@ hv005 : sample weights
 
 hv009 : number of household members 
 
+hv105_01- 27 : AGE
+  
+hv104_01 - 21 : Sex of household members 
