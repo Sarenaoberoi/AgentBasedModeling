@@ -6,6 +6,7 @@ Before we begin talking about the number of applications of the Random Forest, i
 
 The image below is a simple representation of a decision tree:
 
+<img width="659" alt="Screen Shot 2020-10-16 at 8 42 29 AM" src="https://user-images.githubusercontent.com/60228365/96259664-ed3cfd00-0f8b-11eb-80d4-abac20767a36.png">
 
 
 #### Random Forest
