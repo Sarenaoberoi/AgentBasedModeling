@@ -17,6 +17,8 @@
 
 1) [Project 2](https://Sarenaoberoi.github.io/AgentBasedModeling/oct1)
 
+2) [Data Science Insight 2](https://Sarenaoberoi.github.io/AgentBasedModeling/insight2)
+
 
 
   
