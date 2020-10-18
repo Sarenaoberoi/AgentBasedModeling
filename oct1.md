@@ -27,9 +27,12 @@ The plot above represents average household density based on population density 
 
 <img width="381" alt="Screen Shot 2020-10-16 at 12 40 21 PM" src="https://user-images.githubusercontent.com/60228365/96366784-e80cb900-1117-11eb-97d2-5b9ee241b088.png">
 
-Abo
+This last plot is an image of a cropped and masked Lira, with the synthetic households distrubuted among the district. The points are slightly large, making the graph look very dense. 
 
 <img width="340" alt="Screen Shot 2020-10-16 at 8 27 47 PM" src="https://user-images.githubusercontent.com/60228365/96366787-ec38d680-1117-11eb-9fda-56bf5931f925.png">
 
+Above, I have inserted a screenshot of the confusion matrix received. 
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
+
+Lastly, I have also inserted a screenshot of my final accuracy. As you can see, the accuracy is very low at approximatley 17.
