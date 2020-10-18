@@ -19,11 +19,11 @@ One important portion of this project was to pivot our gender, age, and educatio
 
 <img width="379" alt="Screen Shot 2020-10-16 at 12 44 11 PM" src="https://user-images.githubusercontent.com/60228365/96366772-e17e4180-1117-11eb-852b-73e39ad01b5f.png">
 
-The plot above represents population size 
-
+The plot above represents average household density based on population density.  
 
 <img width="385" alt="Screen Shot 2020-10-16 at 12 36 20 PM" src="https://user-images.githubusercontent.com/60228365/96366779-e511c880-1117-11eb-883a-9ee1cb148c0b.png">
 
+The plot above represents average household density based on population density from the ADM1 data. This plot was created by sampling and resampling from the adm1 data. This is necessary, as the actual sample data included many more observations than the adm1 data. Therefore, it was necessary to continue to resample from the adm1 data. 
 
 <img width="381" alt="Screen Shot 2020-10-16 at 12 40 21 PM" src="https://user-images.githubusercontent.com/60228365/96366784-e80cb900-1117-11eb-97d2-5b9ee241b088.png">
 
