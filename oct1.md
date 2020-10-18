@@ -1,5 +1,9 @@
-I was originally working with the country Paraguay, but after beginning project 2, I realized that there was a great deal of important data missing from the DHS data. The plot below shows the distribution of households in Altos, Paraguay. I switched my country to Uganda, as the data was much more recent, and I had more data to work with.
+### Project 2
 
+
+I originally began this project by working with the country Paraguay, but after getting access and analyzing the DHS data, I realized that there was a great deal of important data missing from the households dataset. I switched my country to Uganda, as the data was much more recent, and I had more data to work with.
+
+The plot below shows the distribution of households in Altos, Paraguay.
 
 <img width="356" alt="Screen Shot 2020-10-01 at 1 24 16 PM" src="https://user-images.githubusercontent.com/60228365/94925354-112d1880-048d-11eb-841f-fbb742667092.png">
 
@@ -35,4 +39,4 @@ Above, I have inserted a screenshot of the confusion matrix received.
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
 
-Lastly, I have also inserted a screenshot of my final accuracy. As you can see, the accuracy is very low at approximatley 17.
+Lastly, I have also inserted a screenshot of my final accuracy. As you can see, the accuracy is very low at approximatley 17.31. Although the accuracy is low, 
