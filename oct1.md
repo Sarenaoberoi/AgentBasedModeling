@@ -1,7 +1,7 @@
 ### Project 2
 
 
-I originally began this project by working with the country Paraguay, but after getting access and analyzing the DHS data, I realized that there was a great deal of important data missing from the households dataset. I switched my country to Uganda, as the data was much more recent, and I had more data to work with.
+I originally began this project by working with the country Paraguay, but after getting access and analyzing the DHS data, I realized that there was a great deal of important information missing from the households dataset. I switched my country to Uganda, as the data was much more recent, and I had more data to work with.
 
 The plot below shows a planar point pattern of the distribution of households in Altos, Paraguay.
 
@@ -17,7 +17,7 @@ hv105_01- 27 : Age
   
 hv104_01 - 21 : Sex of household members 
 
-I began the project by bringing in some new important libraries, including VIM and haven. After brining in the libraries, I read in the 3 seperate subdivision (adm0, adm1, and adm2). These were also used in proeject 1. I also read in the raster tif file which included population. After recieving data from DHS for Uganda, I was able to download the files and bring in persons and household data as well. We defined 9 different variables by referncing their speciic columns from the households data frame. These variables were unit, weights, location, size, sex, age, education, wealth, and hhid. Finally, after defining the variables, we created a new data frame using cbind, to bring all the variables into one dataframe. I then filtered my population data into just 1 specific adm1, Lira. I then cropped the masked the population file to Lira (located in Northern Uganda). 
+I began the project by bringing in some new important libraries, including VIM and haven. After brining in the libraries, I read in the 3 seperate subdivision (adm0, adm1, and adm2). These were also used in project 1. I also read in the raster tif file which included population. After recieving the DHS data for Uganda, I was able to download the files and bring in persons and household data as well. We defined 9 different variables by referncing their speciic columns from the households data frame. These variables were unit, weights, location, size, sex, age, education, wealth, and hhid. Finally, after defining the variables, we created a new data frame using cbind, to bring all the variables into one dataframe. I then filtered my population data into just 1 specific adm1, Lira. I then cropped the masked the population file to Lira (located in Northern Uganda). 
 
 One important portion of this project was to pivot our gender, age, and education variables. I was able to pivot these variables by looking into the hhs dataframe and findinng the specific column numbers that the variable in interest was located in. Following the creation of the pivot objects, I went into the pivot object, and looked at the column numbers where gender and pnmbr were located and specified their column numbers. Following this, I created the pns dataframe which included both gender_pivot, age_pivot, and education_pivot. 
 
@@ -39,4 +39,4 @@ Above, I have inserted a screenshot of the confusion matrix received.
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
 
-Lastly, I have also inserted a screenshot of my final accuracy. As you can see, the accuracy is very low at approximatley 17.31. Although the accuracy is low, 
+Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31).
