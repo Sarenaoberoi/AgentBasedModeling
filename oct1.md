@@ -41,7 +41,12 @@ Above, I have inserted a screenshot of the confusion matrix retrieved.
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
 
-Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31). Although the accuracy was low, it is still a better representation of the synthetic population than a randomly generated synthetic population.  
+Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31). Although the accuracy was low, it is still a better representation of the synthetic population than a randomly generated synthetic population. In the future I may look into GPS data which could greatly increase the accuracy of my model.  
+
+Challenges/Limitations
+
+There were a number of instances while completing this project in which a line of code would run for over 15-20 minutes and I would then get an error message stating "vector memory exhasted". I noticed this error a couple times, but most of the time I was able to fix it by exiting out of R Studio and then coming back in. Something I also noticed before I switched my country to Uganda (and was with Paraguay), was that the different variables I wanted to focus on were not grouped together in the household data frame. For Uganda, age, sex, ect. were all grouped together so it was easy to specify the column numbers. This was not the case when I was working with the Paraguay data, and I had to use -- age <- households[ ,seq(from = 450, to = 550, by = 20)] (Thank you Zoe!) -- replacing the 450 with where my age column began, replacing the 550 with where my age column ended, and replacing the 20 with the interval between each age column. This worked very well in creating a nice, clean hhs dataframe! 
+
 
 Heat Map
 
