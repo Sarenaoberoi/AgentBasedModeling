@@ -47,3 +47,4 @@ Heat Map
 
 <img width="543" alt="Screen Shot 2020-10-25 at 6 42 54 PM" src="https://user-images.githubusercontent.com/60228365/97122353-9f4a9680-16fb-11eb-9923-15a552aa23b6.png">
 
+The heat map above is a scaled, normalized, and percentized version of the data. 
