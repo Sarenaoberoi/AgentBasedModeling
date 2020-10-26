@@ -41,10 +41,10 @@ Above, I have inserted a screenshot of the confusion matrix received.
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
 
-Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31).
+Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31). Although the accuracy was low, it is still a better representation of the synthetic population than a randomly generated synthetic population. 
 
 Heat Map
 
 <img width="543" alt="Screen Shot 2020-10-25 at 6 42 54 PM" src="https://user-images.githubusercontent.com/60228365/97122353-9f4a9680-16fb-11eb-9923-15a552aa23b6.png">
 
-The heat map above is a scaled, normalized, and percentized version of the data. 
+The heat map above which includes age, wealth, education, gender, and size is shown above with normalized and percentized view of the data. 
