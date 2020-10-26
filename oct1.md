@@ -29,7 +29,7 @@ The plot above represents average household density based on population density 
 
 <img width="385" alt="Screen Shot 2020-10-16 at 12 36 20 PM" src="https://user-images.githubusercontent.com/60228365/96366779-e511c880-1117-11eb-883a-9ee1cb148c0b.png">
 
-The plot above is a plot similar to the plot described before, but uses a synthetic populations instead. 
+The plot above is a plot similar to the plot described before, but includes the addition of a synthetic population. 
 
 <img width="381" alt="Screen Shot 2020-10-16 at 12 40 21 PM" src="https://user-images.githubusercontent.com/60228365/96366784-e80cb900-1117-11eb-97d2-5b9ee241b088.png">
 
