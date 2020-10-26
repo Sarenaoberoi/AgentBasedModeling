@@ -7,7 +7,7 @@ The plot below shows a planar point pattern of the distribution of households in
 
 <img width="356" alt="Screen Shot 2020-10-01 at 1 24 16 PM" src="https://user-images.githubusercontent.com/60228365/94925354-112d1880-048d-11eb-841f-fbb742667092.png">
 
-Below, I have placed the specific column name for some of the important variables from the data. 
+Below, I have placed the specific column name for some of the important variables from the data. Throughout this project, I concentrated more on the entire country of Paraguay, while also completing some exercises with adm1 (Lira).   
 
 hv005 : sample weights
 
@@ -41,7 +41,7 @@ Above, I have inserted a screenshot of the confusion matrix retrieved.
 
 <img width="329" alt="Screen Shot 2020-10-16 at 8 28 09 PM" src="https://user-images.githubusercontent.com/60228365/96366788-ee029a00-1117-11eb-9c47-c4509f405214.png">
 
-Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31). Although the accuracy was low, it is still a better representation of the synthetic population than a randomly generated synthetic population. 
+Lastly, I have also inserted a screenshot of my final accuracy (approximatley 17.31). Although the accuracy was low, it is still a better representation of the synthetic population than a randomly generated synthetic population.  
 
 Heat Map
 
