@@ -25,11 +25,11 @@ One important portion of this project was to pivot our gender, age, and educatio
 
 <img width="379" alt="Screen Shot 2020-10-16 at 12 44 11 PM" src="https://user-images.githubusercontent.com/60228365/96366772-e17e4180-1117-11eb-852b-73e39ad01b5f.png">
 
-The plot above represents average household density based on population density.  
+The plot above represents average household density based on population density from the ADM1 data. This plot was created by sampling from the adm1 data. The plot shows the specific Lira data from the adm1 (in green) layered on top of the general household Uganda data.  
 
 <img width="385" alt="Screen Shot 2020-10-16 at 12 36 20 PM" src="https://user-images.githubusercontent.com/60228365/96366779-e511c880-1117-11eb-883a-9ee1cb148c0b.png">
 
-The plot above represents average household density based on population density from the ADM1 data. This plot was created by sampling from the adm1 data. 
+The plot above is a plot similar to the plot described before, but uses a synthetic populations instead. 
 
 <img width="381" alt="Screen Shot 2020-10-16 at 12 40 21 PM" src="https://user-images.githubusercontent.com/60228365/96366784-e80cb900-1117-11eb-97d2-5b9ee241b088.png">
 
