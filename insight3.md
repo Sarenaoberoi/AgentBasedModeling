@@ -16,4 +16,7 @@ You will retrieve the labels for the specific K's you are focusing on.
 
 Lastly, the algotihim wil return the means of the K Labels. 
 
+Research has shown that the K-NN algorithim has been used in a variety of studies, including making predictions for the economy and stock prices. A Jordanian stock exchange company made use of the algorithim in order to predict stock prices for 6 different companies. 
+
+The K-NN Algorithim, although very useful and accurate for small sets of data, can see problems when being applied to very large sets (slower and less accurate).  
 
