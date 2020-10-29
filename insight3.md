@@ -6,3 +6,4 @@ Now that we have a comprehnsive understanding of supervised machine learning, we
 
 ## Implimenting the Algorithim
 
+The first step in putting the algorithim to use is bringing in your data. After your data has been loaded in, you can choose a K value. Choosing a K value that will give the best results in critical, but the best way to find this K is to try many different values. It is important to note that as the chosen K value decreases, the predictions may become less accurate. With this in mind, it is most reasonable to test your model with higher K values (until finding the best one). The next step is determining the distance between the testing points, and each training point (this should be done for each testing points). Organize the distances in increasing order.   
