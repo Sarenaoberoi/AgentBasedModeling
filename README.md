@@ -19,6 +19,8 @@
 
 2) [Data Science Insight 2](https://Sarenaoberoi.github.io/AgentBasedModeling/insight2)
 
+3) [Data Science Insight 3](https://Sarenaoberoi.github.io/AgentBasedModeling/insight3)
+
 
 
   
