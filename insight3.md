@@ -5,11 +5,17 @@ The K-Nearest Neighbors algorithim is a supervised machine learning method that 
 Example: 
 
 Similar points are grouped together 
+
+
 <img width="397" alt="Screen Shot 2020-10-29 at 10 22 04 AM" src="https://user-images.githubusercontent.com/60228365/97586566-c8f01000-19d0-11eb-8fcf-6ecee2302287.png">
+
+
 
 
 Example of Classification Problem - Do you like pineappple pizza? Yes (1) and No (0)
 <img width="330" alt="Screen Shot 2020-10-29 at 10 23 14 AM" src="https://user-images.githubusercontent.com/60228365/97586576-cc839700-19d0-11eb-9467-0df87108b93f.png">
+
+
 
 
 
