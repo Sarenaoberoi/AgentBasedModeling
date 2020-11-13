@@ -21,6 +21,10 @@
 
 3) [Data Science Insight 3](https://Sarenaoberoi.github.io/AgentBasedModeling/insight3)
 
+### Final Weeks
+
+1) [In-Class Essay](https://Sarenaoberoi.github.io/AgentBasedModeling/insight3)
+
 
 
   
