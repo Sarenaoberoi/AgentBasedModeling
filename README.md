@@ -23,7 +23,7 @@
 
 ### Final Weeks
 
-1) [In-Class Essay](https://Sarenaoberoi.github.io/AgentBasedModeling/insight3)
+1) [In-Class Essay](https://Sarenaoberoi.github.io/AgentBasedModeling/inclassessay)
 
 
 
