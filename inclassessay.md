@@ -10,3 +10,9 @@ With the pervasiveness of data science today, there is no doubt that there have 
 
 In general, I believe the pros outweigh the cons when it comes to data science and agent-based modeling. These new, and continuously improving methods are giving scientists a better understanding of human behavior and movement. Even for smaller scale models like using ABM to improve the traffic on a populated highway, we can see large improvements in our everyday lives. 
    
+#### Works Cited
+
+Producer. (2012, August 21). Episode 33: Complexity and Development. Retrieved November 14, 2020, from http://developmentdrums.org/627
+
+Silva, P., Batista, P., Lima, H., Alves, M., Guimarães, F., &amp; Silva, R. (2020, October). COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions. Retrieved November 14, 2020, from https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7340090/
+
