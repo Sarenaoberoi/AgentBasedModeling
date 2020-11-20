@@ -25,6 +25,8 @@
 
 1) [In-Class Essay](https://Sarenaoberoi.github.io/AgentBasedModeling/inclassessay)
 
+2) [Final Project!](https://Sarenaoberoi.github.io/AgentBasedModeling/finalproject)
+
 
 
   
