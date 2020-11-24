@@ -13,7 +13,7 @@ Destinations!
 
 <img width="473" alt="Screen Shot 2020-11-20 at 4 03 40 PM" src="https://user-images.githubusercontent.com/60228365/99850010-96a67e00-2b4a-11eb-87a2-ea837975e6e6.png">
 
-Using the centerpoints identified in project 1 along with internal migration flow data, I was able to create a plot of voronoi polygons for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points (and the path between them) in the subdivison Lira. 
+Using the centerpoints along with internal migration flow data, I was able to create a plot migration patterns for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points (and the path between them) in the subdivison Lira.  
 
 OD Matrix
 
