@@ -4,6 +4,10 @@ After looking into Dr. D's guide to gravity models, and the Garcia et al. paper,
 
 <img width="120" alt="Screen Shot 2020-11-24 at 7 44 35 AM" src="https://user-images.githubusercontent.com/60228365/100095707-e6c26080-2e28-11eb-8247-4943bf2e16eb.png">
 
+<img width="1108" alt="Screen Shot 2020-11-09 at 1 12 13 PM" src="https://user-images.githubusercontent.com/60228365/100105914-e2e90b00-2e35-11eb-8ec3-d4f14156b460.png">
+
+The image above is a plot that represents some of the urbanized areas in Lira (similar to project 2). This plot is different from the plot produced in project 2, however, because we have layered the synthetic population (created in project 3) ontop of the urbanized areas.
+
 
 <img width="466" alt="Screen Shot 2020-11-08 at 8 46 20 PM" src="https://user-images.githubusercontent.com/60228365/99850008-94dcba80-2b4a-11eb-9e69-e715004a9094.png">
 
