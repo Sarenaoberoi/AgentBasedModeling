@@ -16,7 +16,7 @@ OD Matrix
 
 <img width="1140" alt="Screen Shot 2020-11-20 at 3 52 02 PM" src="https://user-images.githubusercontent.com/60228365/99850014-9908d800-2b4a-11eb-84d4-8eafe1739a4b.png">
 
-Above is an image of my Origin-Destination Matrix. The top row (x axis) represents origins, while the columns (y axis) represent destinations. The boxes with NA represent the migration from the SAME origin and destination. The boxes without NA represent the predictive value of migration from one origin (row) to a destination (column). Lastly, below I have an animation of movement around the country of Uganda. My animation only shows the movement of one point from the origin point to a destination. In the future, I hope to be able to create the same animation with multiple points moving across Uganda.  
+Above is an image of my Origin-Destination Matrix. The top row (x axis) represents origins, while the columns (y axis) represent destinations. The boxes with NA represent the migration from the an origin point that is the SAME as the destination point. The boxes wihtout NA (numeric vaules) represent the predictive value of migration from one origin (row) to a destination (column). Lastly, below I have included an animation of movement around the country of Uganda. My animation only shows the movement of one point from the origin point to a destination. In the future, I hope to be able to create the same animation with multiple points moving across Uganda. This animation was very cool to make!  
 
 The Animation!
 
