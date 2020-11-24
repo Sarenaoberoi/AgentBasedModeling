@@ -5,19 +5,18 @@ After looking into Dr. D's guide to gravity models, and the Garcia et al. paper,
 <img width="120" alt="Screen Shot 2020-11-24 at 7 44 35 AM" src="https://user-images.githubusercontent.com/60228365/100095707-e6c26080-2e28-11eb-8247-4943bf2e16eb.png">
 
 
-Voronoi Polygons 
-
 <img width="466" alt="Screen Shot 2020-11-08 at 8 46 20 PM" src="https://user-images.githubusercontent.com/60228365/99850008-94dcba80-2b4a-11eb-9e69-e715004a9094.png">
 
-Destinations!
 
 <img width="473" alt="Screen Shot 2020-11-20 at 4 03 40 PM" src="https://user-images.githubusercontent.com/60228365/99850010-96a67e00-2b4a-11eb-87a2-ea837975e6e6.png">
 
-Using the centerpoints along with internal migration flow data, I was able to create a plot migration patterns for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points (and the path between them) in the subdivison Lira.  
+Using the centerpoints along with internal migration flow data, I was able to create a plot of migration patterns for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points (and the path between them) in the subdivison Lira. Expanding our view to the country as a whole, as you can see from the plot below, there were approximatley 58 destination points around all of Uganda.     
 
 OD Matrix
 
 <img width="1140" alt="Screen Shot 2020-11-20 at 3 52 02 PM" src="https://user-images.githubusercontent.com/60228365/99850014-9908d800-2b4a-11eb-84d4-8eafe1739a4b.png">
+
+Above is an image of my Origin-Destination Matrix. 
 
 The Animation!
 
