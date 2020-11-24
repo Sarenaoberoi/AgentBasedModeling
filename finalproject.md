@@ -9,11 +9,11 @@ Voronoi Polygons
 
 <img width="466" alt="Screen Shot 2020-11-08 at 8 46 20 PM" src="https://user-images.githubusercontent.com/60228365/99850008-94dcba80-2b4a-11eb-9e69-e715004a9094.png">
 
-Using the centerpoints identified in project 1 along with internal migration flow data, I was able to create a plot of voronoi polygons for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points in the subdivison Lira. 
-
 Destinations!
 
 <img width="473" alt="Screen Shot 2020-11-20 at 4 03 40 PM" src="https://user-images.githubusercontent.com/60228365/99850010-96a67e00-2b4a-11eb-87a2-ea837975e6e6.png">
+
+Using the centerpoints identified in project 1 along with internal migration flow data, I was able to create a plot of voronoi polygons for a specific subdivision in Uganda, called Lira. These points gave us a relatively accurate description of the origin and destination points (and the path between them) in the subdivison Lira. 
 
 OD Matrix
 
