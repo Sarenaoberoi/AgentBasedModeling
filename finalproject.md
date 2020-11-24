@@ -1,6 +1,6 @@
 ### Gravity Model
 
-
+After looking into Dr. D's guide to gravity models, and the Garcia et al. paper, I learned a great deal about gravity models and their applications. By using Dr. D's guide, I was able to create a 
 
 
 
